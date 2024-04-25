@@ -45,7 +45,7 @@ Predicting disease-metabolite associations based on the metapath aggregation of 
 ## 🎯 How to run?
 ```
 1、Loading various associations and similarities in the data folder
-2、
-3、Run main.py
+2、Running main.py in the my_code folder calls train.py, model.py and layers.py
+3、
 
 ```
