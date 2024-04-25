@@ -10,7 +10,7 @@ Predicting disease-metabolite associations based on the metapath aggregation of 
 - pandas 1.4.4
 
 ## Dataset
-'''
+```
 disease-metabolite associations: association_DME.xlsx
 disease-microbe associations: association_DMI.xlsx
 microbe-metabolite associations: association_MIME.xlsx
@@ -21,7 +21,7 @@ Disease semantic similarity: disease_Semantic_simi.xlsx
 Metabolite functional similarity: metabolite_func_simi.xlsx
 Metabolite Gaussian kernel similarity: metabolite_Gaussian_Simi.xlsx
 microbe Gaussian kernel similarities: microbe_Gaussian_Simi_1.xlsx and microbe_Gaussian_Simi_2.xlsx 
-'''
+```
 
 ###### Model options
 ```
