@@ -16,12 +16,12 @@ Predicting disease-metabolite associations based on the metapath aggregation of 
 disease-metabolite associations: association_DME.xlsx
 disease-microbe associations: association_DMI.xlsx
 microbe-metabolite associations: association_MIME.xlsx
-disease semantic networks based on metapath DMED and DMID: A_DMED.xlsx and A_DMID.xlsx
-metabolite semantic networks based on metapath MEDME and MEMIME: A_MEDME.xlsx and A_MEMIME.xlsx 
-Disease Gaussian kernel similarity: disease_Gaussian_Simi.xlsx
-Disease semantic similarity: disease_Semantic_simi.xlsx
-Metabolite functional similarity: metabolite_func_simi.xlsx
-Metabolite Gaussian kernel similarity: metabolite_Gaussian_Simi.xlsx
+disease semantic networks based on metapath DMED and DMID: A_DME_D.xlsx and A_DMI_D.xlsx
+metabolite semantic networks based on metapath MEDME and MEMIME: A_DME_ME.xlsx and A_MIME_ME.xlsx 
+disease Gaussian kernel similarity: disease_Gaussian_Simi.xlsx
+disease semantic similarity: disease_Semantic_simi.xlsx
+metabolite functional similarity: metabolite_func_simi.xlsx
+metabolite Gaussian kernel similarity: metabolite_Gaussian_Simi.xlsx
 microbe Gaussian kernel similarities: microbe_Gaussian_Simi_1.xlsx and microbe_Gaussian_Simi_2.xlsx 
 ```
 
