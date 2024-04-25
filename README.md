@@ -3,11 +3,13 @@ Predicting disease-metabolite associations based on the metapath aggregation of 
 # MAHN for disease-metabolite associations prediction
 
 ## Dependecies
+```
 - Python 3.9
 - pytorch 1.12.1
 - dgl 1.1.1
 - numpy 1.22.4+mkl
 - pandas 1.4.4
+```
 
 ## Dataset
 ```
@@ -23,7 +25,7 @@ Metabolite Gaussian kernel similarity: metabolite_Gaussian_Simi.xlsx
 microbe Gaussian kernel similarities: microbe_Gaussian_Simi_1.xlsx and microbe_Gaussian_Simi_2.xlsx 
 ```
 
-###### Model options
+## Model options
 ```
 --epochs           int     Number of training epochs.                 Default is 1000.
 --attn_size        int     Dimension of attention.                    Default is 64.
@@ -37,7 +39,7 @@ microbe Gaussian kernel similarities: microbe_Gaussian_Simi_1.xlsx and microbe_G
 
 ```
 
-###### How to run?
+## How to run?
 ```
 Run main.py
 
