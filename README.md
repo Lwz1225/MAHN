@@ -1,7 +1,7 @@
 # MAHN
 Predicting disease-metabolite associations based on the metapath aggregation of tripartite heterogeneous networks
 
-# 🏠 Overview
+## 🏠 Overview
 ![image](https://github.com/Lwz1225/MAHN/assets/127914409/ddd7ad49-8a8c-4f67-8287-d5900db5f0c7)
 
 
@@ -44,6 +44,8 @@ Predicting disease-metabolite associations based on the metapath aggregation of 
 
 ## 🎯 How to run?
 ```
-Run main.py
+1、Loading various associations and similarities in the data folder
+2、
+3、Run main.py
 
 ```
